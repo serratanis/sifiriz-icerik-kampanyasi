@@ -1,65 +1,69 @@
-# Sıfırİz — Atıksız Şehir Yaşamı İçerik Kampanyası
+# Sıfırİz - Atıksız Şehir Yaşamı İçerik Kampanyası
 
-Sıfırİz, atıksız yaşamı kusursuzluk hedefi olmaktan çıkarıp şehir hayatına sığan küçük ve uygulanabilir alışkanlıklara dönüştüren kurgusal bir içerik markasıdır.
+<p align="center">
+  <strong>Atıksız yaşamı kusursuzluk baskısından çıkarıp şehir hayatına sığan küçük alışkanlıklara dönüştüren yapay zekâ destekli içerik markası.</strong>
+</p>
 
-## Proje kapsamı
+<p align="center">
+  <a href="https://www.canva.com/design/DAHYRxgDzsM/ZDR7nOSgXa-FAXGKgQorxA/view?utm_content=DAHYRxgDzsM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdc8101f067"><img alt="Canva Portföyü" src="https://img.shields.io/badge/Canva_Portföyü-Görüntüle-7D2AE8?logo=canva&logoColor=white"></a>
+  <img alt="Content Strategy" src="https://img.shields.io/badge/İçerik-Stratejisi-174C43">
+  <img alt="Responsible AI" src="https://img.shields.io/badge/Yapay_Zekâ-Sorumlu_Kullanım-E7643B">
+</p>
 
-- Marka analizi ve 5 benzer oluşum değerlendirmesi
-- Marka kimliği, görsel dil ve tek sayfalık marka sesi rehberi
-- Neden–Kime–Ne–Nasıl çerçevesi ve hedef persona
+![Sıfırİz kampanya görselleri](assets/final/kampanya-gorselleri-onizleme.png)
+
+## Projenin fikri
+
+Sıfırİz; gündelik şehir yaşamında uygulanabilir, yargılamayan ve kanıta dayalı içeriklerle davranış değişikliğini destekleyen kurgusal bir markadır. Proje yalnızca son içerikleri değil; strateji, üretim, kalite kontrolü, etik değerlendirme ve yayın planını birlikte sunar.
+
+## Teslim kapsamı
+
+- Marka analizi ve beş benzer oluşum değerlendirmesi
+- Marka kimliği, görsel dil ve marka sesi rehberi
+- Neden-Kime-Ne-Nasıl çerçevesi ve hedef persona
 - Dört içerik sütunu
 - SEO uyumlu blog yazısı
-- RTF formülüyle hazırlanmış üç sosyal medya gönderisi
-- Marka paletine uygun üç özgün yapay zekâ görseli
-- 15–20 saniyelik dikey tanıtım videosu
-- Marka tonuna uygun TTS seslendirme
+- RTF formülüyle üç sosyal medya gönderisi
+- Üç özgün yapay zekâ görseli
+- 18 saniyelik dikey tanıtım videosu ve TTS seslendirme
 - 7 günlük içerik takvimi
 - Telif, etik, marka sesi ve halüsinasyon kontrol kaydı
 - Prompt kütüphanesi, AI kullanım raporu ve otomasyon taslağı
 
-## Teslim klasörleri
+## İncelemeye buradan başlayın
+
+1. [Canva sunumu](https://www.canva.com/design/DAHYRxgDzsM/ZDR7nOSgXa-FAXGKgQorxA/view?utm_content=DAHYRxgDzsM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdc8101f067)
+2. `deliverables/SifirIz-Ornek-Icerik-Portfolyosu.pdf`: sekiz sayfalık jüri özeti
+3. `deliverables/SifirIz-Marka-Stratejisi.docx`: marka stratejisi
+4. `deliverables/SifirIz-7-Gunluk-Icerik-Takvimi.xlsx`: formüllü yayın takvimi
+5. `video/SifirIz-18sn-Tanitim.mp4` ve `audio/SifirIz-TTS-Seslendirme.m4a`
+
+Mac'te `PORTFOLYOYU-AC.command` dosyasına çift tıklayarak ana portföy PDF'ini açabilirsiniz. Bu bir içerik üretimi portföyüdür; sunucu veya terminal kurulumu gerektirmez.
+
+## Dosya yapısı
 
 ```text
-assets/       Üç kampanya görseli ve kapaklar
+assets/       Kampanya görselleri ve marka kartı
 audio/        TTS seslendirme
 content/      Blog, sosyal gönderiler ve senaryolar
-deliverables/ Marka stratejisi, içerik takvimi ve portfolyo PDF'i
+deliverables/ Strateji, takvim ve portföy dosyaları
 docs/         Promptlar, kontrol kayıtları ve kullanım notları
-video/        15–20 saniyelik tanıtım videosu
+video/        Dikey tanıtım videosu ve altyazı
 ```
 
-## Değerlendirme için önerilen inceleme sırası
+## Kalite ve sorumlu yapay zekâ
 
-1. `deliverables/SifirIz-Ornek-Icerik-Portfolyosu.pdf` — projenin sekiz sayfalık jüri özeti
-2. `deliverables/SifirIz-Marka-Stratejisi.docx` — iki sayfalık marka stratejisi
-3. `deliverables/SifirIz-7-Gunluk-Icerik-Takvimi.xlsx` — canlı formüller, durum alanları ve kaynak sekmesi
-4. `video/SifirIz-18sn-Tanitim.mp4` ve `audio/SifirIz-TTS-Seslendirme.m4a`
-5. `content/`, `assets/final/` ve `docs/` altındaki üretim kanıtları
-
-## Dosyaları kullanma
-
-- PDF, DOCX ve XLSX dosyaları standart ofis uygulamalarında doğrudan açılır.
-- Video 1080 × 1920 dikey formattadır; ayrı altyazı dosyası `video/SifirIz-Tanitim-Altyazi.srt` yolundadır.
-- Ses kaydı M4A biçimindedir ve standart medya oynatıcılarda çalışır.
-- Takvimdeki yeşil `Onaylandı` alanları açılır listelidir; durum değiştiğinde üst özet formülleri otomatik güncellenir.
-- Üretim süreci, promptlar ve kalite kontrolleri `docs/` klasöründe şeffaf biçimde kayıtlıdır.
-
-## Teknik doğrulama özeti
-
-- Marka stratejisi iki sayfa olarak görsel kontrolden geçirildi.
-- Excel dosyasındaki beş özet formülü yeniden hesaplandı; formül hatası bulunmadı.
-- Portföy PDF'inin sekiz sayfası ayrı ayrı görüntülenerek taşma ve kesilme kontrolü yapıldı.
-- Video H.264/AAC, 1080 × 1920 ve tam 18 saniye olarak doğrulandı.
-- TTS dosyasının süresi ve oynatılabilirliği doğrulandı.
-
-## Sorumlu yapay zekâ notu
-
-Görseller yapay zekâ ile özgün olarak üretilmiştir; yaşayan sanatçı veya marka stili taklit edilmemiştir. İstatistiksel ve teknik iddialar kaynaklandırılmış, doğrulanamayan sayısal iddialar içerikten çıkarılmıştır. Görsellerde gerçek kişilerin kimliği kullanılmamıştır.
+- Portföyün sekiz sayfası taşma ve kesilme açısından görsel olarak kontrol edildi.
+- Takvimdeki formüller yeniden hesaplandı ve doğrulandı.
+- Video H.264/AAC, 1080 × 1920 ve 18 saniye olarak doğrulandı.
+- Yapay zekâ görsellerinde yaşayan sanatçı veya marka stili taklit edilmedi.
+- Teknik ve istatistiksel iddialar kaynaklandırıldı; doğrulanamayan iddialar çıkarıldı.
+- Gerçek kişilerin kimlikleri kullanılmadı.
 
 ## Kaynaklar
 
 - [Sıfır Atık Nedir?](https://www.sifiratik.gov.tr/sifir-atik/sifir-atik-nedir)
 - [UNEP Zero Waste 101](https://www.unep.org/interactives/zero-waste-101/index.html)
-- [WWF-Türkiye Sahil Sahiplen Sonuçları](https://www.wwf.org.tr/?15760%2Fsahilsahiplenprogramsonuclar2023-2024=)
+- [WWF-Türkiye Sahil Sahiplen](https://www.wwf.org.tr/?15760%2Fsahilsahiplenprogramsonuclar2023-2024=)
 - [Fazla Gıda](https://fazla.com/gida/)
-- [Too Good To Go About Us](https://www.toogoodtogo.com/en-us/about-us)
+- [Too Good To Go](https://www.toogoodtogo.com/en-us/about-us)
